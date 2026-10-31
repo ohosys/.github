@@ -1,6 +1,6 @@
 # Ohosys.org
 
-**Associazione senza scopo di lucro · Trashware & Linux User Group · Verretto (PV)**
+**Associazione senza scopo di lucro dal 2010 · Trashware & Linux User Group · Verretto (PV)**
 
 *[English below](#english)*
 
@@ -20,6 +20,7 @@ Hai un PC che non usi più, vuoi provare Linux o entrare nel gruppo? Scrivici.
 - 🌐 Sito: [www.ohosys.org](https://www.ohosys.org)
 - ✉️ Email: [info@ohosys.org](mailto:info@ohosys.org)
 - ▶️ YouTube: [@ohosys](https://youtube.com/@ohosys)
+- 🗺️ LugMap: [lugmap.linux.it/lombardia](https://lugmap.linux.it/lombardia/)
 
 ---
 
@@ -27,7 +28,7 @@ Hai un PC che non usi più, vuoi provare Linux o entrare nel gruppo? Scrivici.
 
 ## English
 
-**Non-profit association · Trashware & Linux User Group · Verretto (PV), Italy**
+**Non-profit association since 2010 · Trashware & Linux User Group · Verretto (PV), Italy**
 
 We give a second life to computers that others throw away, with GNU/Linux and free software.
 Less electronic waste, more technology within everyone's reach.
@@ -45,3 +46,4 @@ Do you have a PC you no longer use, want to try Linux or join the group? Write t
 - 🌐 Website: [www.ohosys.org](https://www.ohosys.org)
 - ✉️ Email: [info@ohosys.org](mailto:info@ohosys.org)
 - ▶️ YouTube: [@ohosys](https://youtube.com/@ohosys)
+- 🗺️ LugMap: [lugmap.linux.it/lombardia](https://lugmap.linux.it/lombardia/)
